@@ -20,7 +20,7 @@ Hi, I'm Alfaaz Ahmed, a web development learner from Noakhali, Chittagong, Bangl
 <p align="center">
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alfaazahmed7&layout=compact&theme=vision-friendly-dark&title_color=c56a90&text_color=ffffff&hide_border=true&font_size=20&bg_color=00000000" 
-    width="500"
+    width="450"
     alt="My Coding DNA"
   />
 </p>
