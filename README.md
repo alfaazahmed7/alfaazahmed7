@@ -1,8 +1,6 @@
 <h1 align="left">Hi There👋</h1>
 Hi, I'm Alfaaz Ahmed, a web development learner from Noakhali, Chittagong, Bangladesh. I have learned HTML, CSS, Tailwind CSS, DaisyUI, and JavaScript, and I am currently learning React to build modern frontend applications. I enjoy creating responsive web interfaces and improving my skills by building real projects. My goal is to grow into a skilled full-stack web developer by continuously learning modern web technologies and best practices.
 
-## <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaazahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="alfaazahmed7" /> </p>
-
 ## 🌐 Connect With Me!
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alfaazahmed07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alfaaz_eh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfaazahmed7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfaazahmed010@gmail.com) 
 
