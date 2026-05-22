@@ -1,7 +1,6 @@
-<h1 align="left">Hi There👋</h1>
-Hi, I'm Alfaaz Ahmed, a web development learner from Noakhali, Chattogram, Bangladesh. I have learned HTML, CSS, Tailwind CSS, DaisyUI, and JavaScript, and I am currently learning React to build modern frontend applications. I enjoy creating responsive web interfaces and improving my skills by building real projects. My goal is to grow into a skilled full-stack web developer by continuously learning modern web technologies and best practices.
+<h1 align="left">Hi There 👋</h1>
 
-
+I'm Alfaaz Ahmed, an aspiring MERN stack developer 👨🏽‍💻 from Bangladesh, building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 
 ## 🌐 Connect With Me!
 
@@ -28,6 +27,10 @@ Hi, I'm Alfaaz Ahmed, a web development learner from Noakhali, Chattogram, Bangl
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ## 📈 Current Stats & 💻 Technologies
