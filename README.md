@@ -12,7 +12,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
 🚀 Focus: Full-Stack MERN Applications (MongoDB, Express, React, Next.js)
 ```
 
-## 🌐 Connect With Me!
+## 🌐 CONNECT WITH ME!
 
 <p align="center">
   <a href="https://www.facebook.com/alfaazahmed07">
@@ -29,7 +29,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
   </a>
 </p>
 
-## 💻 Technologies
+## 💻 TECHNOLOGIES
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 📈 Current Stats & 💻 Technologies
+## 📈 CURRENT STATS & 💻 TECHNOLOGIES
 <div align="center">
   <table style="max-width: 1000px; margin: 0 auto;">
     <tr>
@@ -64,7 +64,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
   </table>
 </div>
 
-## 📫 Get in Touch
+## 📫 GET IN TOUCH
 
 <div align="center">
 
