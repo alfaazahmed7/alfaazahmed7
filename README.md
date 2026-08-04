@@ -1,24 +1,31 @@
+<p align="center">
+  <img src="./images/Alfaaz Ahmed.png" alt="Alfaaz Ahmed Banner">
+</p>
 
-<h1 align="left">Hi There 👋</h1>
+## <span style="color:#FF6B6B;">ABOUT ME</span>
 
-I'm Alfaaz Ahmed, an aspiring MERN stack developer 👨🏽‍💻 from Bangladesh, building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB with a focus on clean, efficient code and user-friendly experiences. Let's connect!
+Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products using clean code, and I'm continuously expanding my skills in full-stack development while exploring AI-powered solutions.
 
-## <img src='./images/Alfaaz Ahmed.png'/>
+```text
+🌍 Open to: Remote & On-site Opportunities
+💼 Seeking: Frontend Developer | MERN Stack Developer
+🚀 Focus: Full-Stack MERN Applications (MongoDB, Express, React, Next.js)
+```
 
 ## 🌐 Connect With Me!
 
 <p align="center">
   <a href="https://www.facebook.com/alfaazahmed07">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/alfaaz_eh/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alfaazahmed7/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alfaazahmed010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -56,3 +63,26 @@ I'm Alfaaz Ahmed, an aspiring MERN stack developer 👨🏽‍💻 from Banglade
     </tr>
   </table>
 </div>
+
+## 📫 Get in Touch
+
+<div align="center">
+
+| Channel | Details |
+| :---: | :--- |
+| 🌐 Portfolio | [alfaazahmed.com](https://alfaazdev.vercel.app) |
+| 📧 Email | [alfaazahmed.dev@gmail.com](mailto:alfaazahmed.dev@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/alfaazahmed7](https://linkedin.com/in/alfaazahmed7) |
+| 📱 Phone | [+880 1610 197258](tel:+8801610197258) |
+
+</div>
+
+---
+
+<p align="center">
+  <i>"Passionate about building scalable web applications and seamless digital experiences."</i>
+</p>
+
+<p align="center">
+  ⭐ <b>If you find my work interesting, feel free to star a repo or reach out — I'm always open to collaborating on meaningful projects!</b>
+</p>
