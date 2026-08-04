@@ -44,7 +44,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 📈 CURRENT STATS & 💻 TECHNOLOGIES
+## 📊 GitHub Stats
 <div align="center">
   <table style="max-width: 1000px; margin: 0 auto;">
     <tr>
@@ -70,7 +70,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
 
 | Channel | Details |
 | :---: | :--- |
-| 🌐 Portfolio | [alfaazahmed.com](https://alfaazdev.vercel.app) |
+| 🌐 Portfolio | [alfaazdev.vercel.app](https://alfaazdev.vercel.app) |
 | 📧 Email | [alfaazahmed.dev@gmail.com](mailto:alfaazahmed.dev@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/alfaazahmed7](https://linkedin.com/in/alfaazahmed7) |
 | 📱 Phone | [+880 1610 197258](tel:+8801610197258) |
