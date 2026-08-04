@@ -1,6 +1,9 @@
+
 <h1 align="left">Hi There 👋</h1>
 
 I'm Alfaaz Ahmed, an aspiring MERN stack developer 👨🏽‍💻 from Bangladesh, building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB with a focus on clean, efficient code and user-friendly experiences. Let's connect!
+
+## <img src='./images/Alfaaz Ahmed.png'/>
 
 ## 🌐 Connect With Me!
 
