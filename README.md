@@ -44,7 +44,7 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 <div align="center">
   <table style="max-width: 1000px; margin: 0 auto;">
     <tr>
