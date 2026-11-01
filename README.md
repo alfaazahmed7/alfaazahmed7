@@ -4,12 +4,12 @@
 
 ## <span style="color:#FF6B6B;">ABOUT ME</span>
 
-Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products using clean code, and I'm continuously expanding my skills in full-stack development while exploring AI-powered solutions.
+Hi 👋, I'm **Alfaaz Ahmed**, a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products using clean code, and I'm continuously expanding my skills in full-stack development while exploring AI-powered solutions.
 
 ```text
 🌍 Open to: Remote & On-site Opportunities
-💼 Seeking: Frontend Developer | MERN Stack Developer
-🚀 Focus: Full-Stack MERN Applications (MongoDB, Express, React, Next.js)
+💼 Seeking: Frontend Developer | Full-Stack Developer
+🚀 Focus: Full-Stack Development
 ```
 
 ## 🌐 CONNECT WITH ME!
@@ -62,19 +62,6 @@ Hi 👋, I'm **Alfaaz Ahmed**, a **MERN Stack Developer** passionate about build
       </td>
     </tr>
   </table>
-</div>
-
-## 📫 GET IN TOUCH
-
-<div align="center">
-
-| Channel | Details |
-| :---: | :--- |
-| 🌐 Portfolio | [alfaazdev.vercel.app](https://alfaazdev.vercel.app) |
-| 📧 Email | [alfaazahmed.dev@gmail.com](mailto:alfaazahmed.dev@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/alfaazahmed7](https://linkedin.com/in/alfaazahmed7) |
-| 📱 Phone | [+880 1610 197258](tel:+8801610197258) |
-
 </div>
 
 ---
